@@ -7,9 +7,8 @@
 2) The the EN-RU translation task by different ways :
 
    some used approachs:
-      using RNNs as encoder and decoder with attention mechanism  [https://nbviewer.jupyter.org/github/mykolesiko/nlp_projects/blob/master/Neural_Machine_Translation/Lab2_attention.ipynb]
-      CNN encoder (with or without positional encoding)   
-      pretraining the language model  
+      using RNNs as encoder and decoder with attention mechanism.[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)] (https://colab.research.google.com/github/mykolesiko/nlp_projects/blob/master/Neural_Machine_Translation/Lab2_attention.ipynb)
+      CNN encoder (with or without positional encoding), with pretraining the language model [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)]  
       using transformers  
       
 3) enhance one the models in previous item using Self-critical Sequence Training   
