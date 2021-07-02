@@ -12,7 +12,7 @@ poetry generation
       pretraining the language model  
       using transformers  
       
-3) enhance one the models in previous item using Self-critical Sequence Training
+3) enhance one the models in previous item using Self-critical Sequence Training   
     look at https://arxiv.org/abs/1612.00563    
 
 
