@@ -4,9 +4,7 @@
 
 1) Poetry generation using RNNs in style of Pushkin.[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/mykolesiko/nlp_projects/blob/master/Poetry_generation/Lab01_Poetry_generation_2.ipynb)
 
-2) The the EN-RU translation task by different ways :
-
-   some used approachs:
+2) The the EN-RU translation task by different used approachs:
       using RNNs as encoder and decoder with attention mechanism.[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/mykolesiko/nlp_projects/blob/master/Neural_Machine_Translation/Lab2_attention.ipynb)   
       CNN encoder (with or without positional encoding), with pretraining the language model [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://github.com/mykolesiko/nlp_projects/blob/master/Neural_Machine_Translation/Lab2_convolution_position.ipynb)     
       using transformers  
