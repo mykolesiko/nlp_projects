@@ -1,6 +1,6 @@
 # nlp_projects
 
-poetry generation
+
 
 1) Poetry generation using RNNs in style of Pushkin.
 
